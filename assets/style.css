@@ -1,0 +1,55 @@
+* {
+
+ font-family: 'Roboto';
+
+}
+
+#grafico_5b, #grafico_5, #grafico_1 , #grafico_2 {
+
+
+ 
+  display: inline-block;
+  
+
+}
+
+
+#grafico_51 {
+
+	width: 100%;
+  	
+ 
+ 	
+
+	
+	
+}
+
+#tabla2, #tabla3, #tabla4 {
+
+	width: 100%;
+  	
+	display: inline-block;
+
+	text-align: center;
+   	       
+}
+
+
+.div{
+	width: 50%;
+  	
+	display: inline-block;
+	
+}
+
+.tab-content div{
+
+
+	width: 50%;
+  	
+	display: inline-block;
+
+	
+}
+
